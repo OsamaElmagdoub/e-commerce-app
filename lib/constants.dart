@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const KMaincolor = Colors.amberAccent;
+const KSecondColor = Colors.white;
+const KProductsCollectionPath = 'products';
+const kProductName = 'productName';
+const kProductPrice = 'productPrice';
+const KProductLocation = 'productLocation';
+const kProductDescription = 'productDescription';
+const kProductCategory = 'productCategory';
+const KUnActiveColor = Colors.grey;
+const kShoes = 'shoes';
+const kTrousers = 'trousers';
+const kTshirts = 't-shirts';
+const kJackets = 'jackets';
+const kOrders = 'Orders';
+const kOrderDetails = 'OrderDetails';
+const kAddress = 'Address';
+const kTotalPrice = 'TotalPrice';
+const kProductQuantity = 'ProductQuantity';
+const kKeepMeLoggedIn='kKeepMeLoggedIn';
