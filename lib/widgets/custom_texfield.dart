@@ -13,9 +13,10 @@ class CustomTextField extends StatelessWidget {
    }
  }
   CustomTextField(
+
       @required this.hint,
       @required this.icon,
-      {this.onclick}
+      { this.onclick}
       );
   @override
   Widget build(BuildContext context) {
