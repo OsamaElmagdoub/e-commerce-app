@@ -1,6 +1,5 @@
 import 'package:ecommerce/constants.dart';
 import 'package:ecommerce/provider/modal_hud.dart';
-import 'file:///F:/Courses/Flutter/flutter_projects/New/ecommerce/lib/widgets/custom_texfield.dart';
 import 'package:ecommerce/screens/user/login_screen.dart';
 import 'package:ecommerce/services/auth.dart';
 import 'package:flutter/material.dart';
