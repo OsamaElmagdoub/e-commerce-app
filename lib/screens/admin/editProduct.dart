@@ -94,7 +94,7 @@ _store.editProduct(
 ,product.pId);
                       }
                     },
-                    child: Text('Add'))
+                    child: Text('Update'))
               ],
             ),
           ],
